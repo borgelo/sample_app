@@ -2,7 +2,7 @@
 
 Sample application
 
-Chapter 4.3.3
+Chapter http://ruby.railstutorial.org/chapters/filling-in-the-layout#top
 
 Starte testmiljø:
 bundle exec guard 
