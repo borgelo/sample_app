@@ -2,7 +2,7 @@
 
 Sample application
 
-Chapter http://ruby.railstutorial.org/chapters/filling-in-the-layout#sec-route_tests
+Chapter http://ruby.railstutorial.org/chapters/modeling-users#code-validates_format_of_email
 
 Starte testmiljø:
 bundle exec guard 
