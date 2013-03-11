@@ -2,7 +2,7 @@
 
 Sample application
 
-Chapter http://ruby.railstutorial.org/chapters/modeling-users#code-validates_format_of_email
+Chapter http://ruby.railstutorial.org/chapters/sign-up#sec-deploying_to_production_with_sslof_email
 
 Starte testmiljø:
 bundle exec guard 
