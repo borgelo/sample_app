@@ -2,7 +2,7 @@
 
 Sample application
 
-Chapter http://ruby.railstutorial.org/chapters/sign-up#sec-deploying_to_production_with_sslof_email
+Chapter http://ruby.railstutorial.org/chapters/sign-in-sign-out#sec-current_user
 
 Starte testmiljø:
 bundle exec guard 
@@ -12,3 +12,11 @@ rails console
 
 
 instance variable: @name
+
+Lage ny controller:
+rails generate controller Sessions --no-test-framework
+$ rails generate integration_test authentication_pages
+
+oppdater routes
+oppdater controller
+create web page
